@@ -1,26 +1,31 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4287,100:2D82B7&height=160&section=header&text=Shivakumar%20Gundeti&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=160&section=header&text=Shivakumar%20Gundeti&fontSize=36&fontColor=00F5FF&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&pause=1200&color=2D82B7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+SQL+%2B+Python+%2B+Power+BI;Turning+Raw+Data+Into+Business+Insights;Final-Year+B.Tech+%7C+AI+%26+Data+Science"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+SQL+%2B+Python+%2B+Power+BI;Turning+Raw+Data+Into+Business+Insights;Final-Year+B.Tech+%7C+AI+%26+Data+Science"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivagundeti2005&label=Profile+Views&color=000000&style=flat-square&labelColor=000000"/>
+  <img src="https://img.shields.io/github/followers/shivagundeti2005?label=Followers&style=flat-square&color=000000&labelColor=000000"/>
 </p>
 
 <p align="center">
   <a href="https://shivakumargundetiportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-1F4287?style=flat-square&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=00F5FF"/>
   </a>
   <a href="https://www.linkedin.com/in/shivakumar-gundeti-164428313">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="mailto:shivakumagundeti5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=D14836"/>
   </a>
   <a href="https://wa.me/916302667395">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-000000?style=flat-square&logo=whatsapp&logoColor=25D366"/>
   </a>
-  <img src="https://img.shields.io/badge/Location-Hyderabad,%20India-444444?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-Hyderabad,%20India-000000?style=flat-square"/>
 </p>
 
 <br>
@@ -41,7 +46,11 @@ Currently focused on strengthening my SQL and data visualization skills while bu
 
 **Languages & Query Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,vscode"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,vscode,github&theme=dark"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=F2C811"/>
+  <img src="https://img.shields.io/badge/Tableau-000000?style=flat-square&logo=tableau&logoColor=E97627"/>
+  <img src="https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoftexcel&logoColor=217346"/>
 </p>
 
 **Analytics & Visualization**
@@ -106,27 +115,47 @@ Analyzed customer review sentiment and presented key satisfaction drivers in a b
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivagundeti2005&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=333333&icon_color=2D82B7&title_color=1F4287" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivagundeti2005&theme=default&hide_border=true&background=FFFFFF&stroke=E5E5E5&ring=2D82B7&fire=2D82B7&currStreakLabel=1F4287" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivagundeti2005&show_icons=true&theme=dark&hide_border=true&hide_title=true&bg_color=000000&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&cache_seconds=1800" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivagundeti2005&theme=dark&hide_border=true&background=000000&stroke=00F5FF&ring=00F5FF&fire=00F5FF&currStreakLabel=c9d1d9&cache_seconds=1800" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivagundeti2005&theme=minimal&bg_color=ffffff&color=1F4287&line=2D82B7&point=1F4287&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivagundeti2005&theme=react-dark&bg_color=000000&color=00F5FF&line=00F5FF&point=ffffff&hide_border=true&area=true"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivagundeti2005&theme=matrix&no-frame=true&column=4&margin-w=8&margin-h=8&title=Commits,Stars,Repositories,Followers"/>
+</p>
+
+<br>
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivagundeti2005/shivagundeti2005/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<p align="center"><sub>Animated snake eats through my contribution graph — auto-generated daily via GitHub Actions.</sub></p>
 
 <br>
 
 ## Connect With Me
 
 <p align="center">
+  <a href="https://shivakumargundetiportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00F5FF"/>
+  </a>
   <a href="https://www.linkedin.com/in/shivakumar-gundeti-164428313">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="mailto:shivakumagundeti5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+  </a>
+  <a href="https://wa.me/916302667395">
+    <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D82B7,100:1F4287&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=100&section=footer"/>
 </p>
